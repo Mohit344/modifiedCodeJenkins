@@ -1,0 +1,357 @@
+# Created at 2019-11-19T19:14:46.425
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.io.DataInputStream.readInt(Unknown Source)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:390)
+	at java.lang.Thread.run(Unknown Source)
+
+
+# Created at 2019-11-19T19:14:47.639
+Unexpected IOException with stream: Nov 19, 2019 7:14:47 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+
+
+# Created at 2019-11-19T19:14:52.941
+Unexpected IOException with stream: [
+
+# Created at 2019-11-19T19:14:52.943
+Unexpected IOException with stream: 1
+
+# Created at 2019-11-19T19:14:52.944
+Unexpected IOException with stream: 5
+
+# Created at 2019-11-19T19:14:52.944
+Unexpected IOException with stream: 7
+
+# Created at 2019-11-19T19:14:52.945
+Unexpected IOException with stream: 4
+
+# Created at 2019-11-19T19:14:52.947
+Unexpected IOException with stream: 1
+
+# Created at 2019-11-19T19:14:52.948
+Unexpected IOException with stream: 7
+
+# Created at 2019-11-19T19:14:52.948
+Unexpected IOException with stream: 1
+
+# Created at 2019-11-19T19:14:52.949
+Unexpected IOException with stream: 0
+
+# Created at 2019-11-19T19:14:52.950
+Unexpected IOException with stream: 9
+
+# Created at 2019-11-19T19:14:52.951
+Unexpected IOException with stream: 2
+
+# Created at 2019-11-19T19:14:52.952
+Unexpected IOException with stream: .
+
+# Created at 2019-11-19T19:14:52.953
+Unexpected IOException with stream: 9
+
+# Created at 2019-11-19T19:14:52.954
+Unexpected IOException with stream: 4
+
+# Created at 2019-11-19T19:14:52.955
+Unexpected IOException with stream: 2
+
+# Created at 2019-11-19T19:14:52.956
+Unexpected IOException with stream: ]
+
+# Created at 2019-11-19T19:14:52.957
+Unexpected IOException with stream: [
+
+# Created at 2019-11-19T19:14:52.958
+Unexpected IOException with stream: W
+
+# Created at 2019-11-19T19:14:52.959
+Unexpected IOException with stream: A
+
+# Created at 2019-11-19T19:14:52.959
+Unexpected IOException with stream: R
+
+# Created at 2019-11-19T19:14:52.960
+Unexpected IOException with stream: N
+
+# Created at 2019-11-19T19:14:52.961
+Unexpected IOException with stream: I
+
+# Created at 2019-11-19T19:14:52.962
+Unexpected IOException with stream: N
+
+# Created at 2019-11-19T19:14:52.963
+Unexpected IOException with stream: G
+
+# Created at 2019-11-19T19:14:52.964
+Unexpected IOException with stream: ]
+
+# Created at 2019-11-19T19:14:52.965
+Unexpected IOException with stream: :
+
+# Created at 2019-11-19T19:14:52.966
+Unexpected IOException with stream:  
+
+# Created at 2019-11-19T19:14:52.966
+Unexpected IOException with stream: T
+
+# Created at 2019-11-19T19:14:52.967
+Unexpected IOException with stream: i
+
+# Created at 2019-11-19T19:14:52.969
+Unexpected IOException with stream: m
+
+# Created at 2019-11-19T19:14:52.970
+Unexpected IOException with stream: e
+
+# Created at 2019-11-19T19:14:52.971
+Unexpected IOException with stream: d
+
+# Created at 2019-11-19T19:14:52.971
+Unexpected IOException with stream:  
+
+# Created at 2019-11-19T19:14:52.972
+Unexpected IOException with stream: o
+
+# Created at 2019-11-19T19:14:52.973
+Unexpected IOException with stream: u
+
+# Created at 2019-11-19T19:14:52.974
+Unexpected IOException with stream: t
+
+# Created at 2019-11-19T19:14:52.975
+Unexpected IOException with stream:  
+
+# Created at 2019-11-19T19:14:52.976
+Unexpected IOException with stream: c
+
+# Created at 2019-11-19T19:14:52.976
+Unexpected IOException with stream: o
+
+# Created at 2019-11-19T19:14:52.977
+Unexpected IOException with stream: n
+
+# Created at 2019-11-19T19:14:52.978
+Unexpected IOException with stream: n
+
+# Created at 2019-11-19T19:14:52.979
+Unexpected IOException with stream: e
+
+# Created at 2019-11-19T19:14:52.980
+Unexpected IOException with stream: c
+
+# Created at 2019-11-19T19:14:52.981
+Unexpected IOException with stream: t
+
+# Created at 2019-11-19T19:14:52.982
+Unexpected IOException with stream: i
+
+# Created at 2019-11-19T19:14:52.983
+Unexpected IOException with stream: n
+
+# Created at 2019-11-19T19:14:52.984
+Unexpected IOException with stream: g
+
+# Created at 2019-11-19T19:14:52.985
+Unexpected IOException with stream:  
+
+# Created at 2019-11-19T19:14:52.986
+Unexpected IOException with stream: t
+
+# Created at 2019-11-19T19:14:52.987
+Unexpected IOException with stream: o
+
+# Created at 2019-11-19T19:14:52.987
+Unexpected IOException with stream:  
+
+# Created at 2019-11-19T19:14:52.988
+Unexpected IOException with stream: C
+
+# Created at 2019-11-19T19:14:52.989
+Unexpected IOException with stream: h
+
+# Created at 2019-11-19T19:14:52.990
+Unexpected IOException with stream: r
+
+# Created at 2019-11-19T19:14:52.991
+Unexpected IOException with stream: o
+
+# Created at 2019-11-19T19:14:52.992
+Unexpected IOException with stream: m
+
+# Created at 2019-11-19T19:14:52.993
+Unexpected IOException with stream: e
+
+# Created at 2019-11-19T19:14:52.993
+Unexpected IOException with stream: ,
+
+# Created at 2019-11-19T19:14:52.995
+Unexpected IOException with stream:  
+
+# Created at 2019-11-19T19:14:52.995
+Unexpected IOException with stream: r
+
+# Created at 2019-11-19T19:14:52.996
+Unexpected IOException with stream: e
+
+# Created at 2019-11-19T19:14:52.997
+Unexpected IOException with stream: t
+
+# Created at 2019-11-19T19:14:52.998
+Unexpected IOException with stream: r
+
+# Created at 2019-11-19T19:14:52.998
+Unexpected IOException with stream: y
+
+# Created at 2019-11-19T19:14:52.999
+Unexpected IOException with stream: i
+
+# Created at 2019-11-19T19:14:53.000
+Unexpected IOException with stream: n
+
+# Created at 2019-11-19T19:14:53.001
+Unexpected IOException with stream: g
+
+# Created at 2019-11-19T19:14:53.002
+Unexpected IOException with stream: .
+
+# Created at 2019-11-19T19:14:53.003
+Unexpected IOException with stream: .
+
+# Created at 2019-11-19T19:14:53.003
+Unexpected IOException with stream: .
+
+# Created at 2019-11-19T19:14:53.005
+Unexpected IOException with stream: 
+
+# Created at 2019-11-19T19:14:53.005
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-19T19:14:55.437
+Unexpected IOException: 5,1,com.atmecs.qa.script.TutorialsNinjaScript,validateHomePage(com.atmecs.qa.script.TutorialsNinjaScript),com.atmecs.qa.script.TutorialsNinjaScript,null,null
+
+
+# Created at 2019-11-19T19:14:55.439
+Unexpected IOException with stream: 2019-11-19 19:14:55 INFO  TutorialsNinjaScript:30 - Step1:Validate HomePage
+
+
+# Created at 2019-11-19T19:14:55.482
+Unexpected IOException with stream: passed
+
+
+# Created at 2019-11-19T19:14:55.483
+Unexpected IOException: 6,1,com.atmecs.qa.script.TutorialsNinjaScript,validateHomePage(com.atmecs.qa.script.TutorialsNinjaScript),null,null,null
+
+
+# Created at 2019-11-19T19:14:55.522
+Unexpected IOException with stream: 2
+
+# Created at 2019-11-19T19:14:55.523
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-19T19:14:55.524
+Unexpected IOException with stream: 5
+
+# Created at 2019-11-19T19:14:55.525
+Unexpected IOException with stream: 
+
+
+# Created at 2019-11-19T19:14:55.527
+Unexpected IOException: 5,1,com.atmecs.qa.script.TutorialsNinjaScript,searchItemMethod(com.atmecs.qa.script.TutorialsNinjaScript),com.atmecs.qa.script.TutorialsNinjaScript,null,null
+
+
+# Created at 2019-11-19T19:14:55.528
+Unexpected IOException with stream: 2019-11-19 19:14:55 INFO  TutorialsNinjaScript:40 - Step2: Search for iphone qt.two and  mac qt.3 
+
+
+# Created at 2019-11-19T19:14:55.529
+Unexpected IOException with stream: 2019-11-19 19:14:55 INFO  TutorialsNinjaScript:41 - click on the add to cart
+
+
+# Created at 2019-11-19T19:14:55.879
+Unexpected IOException with stream: 2019-11-19 19:14:55 INFO  TutorialsNinjaScript:44 - validate the error message  
+
+
+# Created at 2019-11-19T19:14:56.145
+Unexpected IOException with stream: passed
+
+
+# Created at 2019-11-19T19:14:56.146
+Unexpected IOException with stream: 2019-11-19 19:14:56 INFO  TutorialsNinjaScript:46 - search the item macbook 
+
+
+# Created at 2019-11-19T19:14:56.576
+Unexpected IOException with stream: 2019-11-19 19:14:56 INFO  TutorialsNinjaScript:49 - click on searchbutton
+
+
+# Created at 2019-11-19T19:14:58.222
+Unexpected IOException with stream: 2019-11-19 19:14:58 INFO  TutorialsNinjaScript:52 - click on mac. image
+
+
+# Created at 2019-11-19T19:15:02.110
+Unexpected IOException with stream: 2019-11-19 19:15:02 INFO  TutorialsNinjaScript:54 - enter  the quantity 
+
+
+# Created at 2019-11-19T19:15:02.811
+Unexpected IOException with stream: 2019-11-19 19:15:02 INFO  TutorialsNinjaScript:57 - validate product macbook
+
+
+# Created at 2019-11-19T19:15:02.959
+Unexpected IOException with stream: passed
+
+
+# Created at 2019-11-19T19:15:03.090
+Unexpected IOException with stream: passed
+
+
+# Created at 2019-11-19T19:15:03.238
+Unexpected IOException with stream: passed
+
+
+# Created at 2019-11-19T19:15:03.381
+Unexpected IOException with stream: passed
+
+
+# Created at 2019-11-19T19:15:03.382
+Unexpected IOException with stream: 2019-11-19 19:15:03 INFO  TutorialsNinjaScript:59 - click on add to cart
+
+
+# Created at 2019-11-19T19:15:03.604
+Unexpected IOException with stream: 2019-11-19 19:15:03 INFO  TutorialsNinjaScript:61 - search for second item
+
+
+# Created at 2019-11-19T19:15:05.287
+Unexpected IOException with stream: 2019-11-19 19:15:05 INFO  TutorialsNinjaScript:68 - click the iphone image
+
+
+# Created at 2019-11-19T19:15:07.465
+Unexpected IOException with stream: 2019-11-19 19:15:07 INFO  TutorialsNinjaScript:70 - validate Iphone product details
+
+
+# Created at 2019-11-19T19:15:07.835
+Unexpected IOException with stream: passed
+
+
+# Created at 2019-11-19T19:15:08.123
+Unexpected IOException with stream: passed
+
+
+# Created at 2019-11-19T19:15:08.313
+Unexpected IOException with stream: passed
+
+
+# Created at 2019-11-19T19:15:08.461
+Unexpected IOException with stream: passed
+
+
+# Created at 2019-11-19T19:15:08.462
+Unexpected IOException with stream: 2019-11-19 19:15:08 INFO  TutorialsNinjaScript:72 - Add the iphone quantity
+
+
+# Created at 2019-11-19T19:15:08.960
+Unexpected IOException with stream: 2019-11-19 19:15:08 INFO  TutorialsNinjaScript:75 - Add to cart
+
+
